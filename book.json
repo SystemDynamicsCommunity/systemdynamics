@@ -20,7 +20,7 @@
           "shortName": "blog-zhangliaoyuan-com-systemdynamics"
         },
         "github-buttons": {
-          "repo": "erizhang/systemdynamics",
+          "repo": "systemdynamicscommunity/systemdynamics",
           "types": [
             "star",
             "watch"
@@ -30,7 +30,7 @@
           "height": 21
         },
         "editlink": {
-          "base": "https://github.com/erizhang/systemdynamics/blob/master/docs",
+          "base": "https://github.com/systemdynamicscommunity/systemdynamics/blob/master/docs",
           "label": "编辑本页"
         },
         "image-captions": {
