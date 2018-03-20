@@ -17,7 +17,7 @@ git init
 git config user.name "Eric Zhang"
 git config user.email "zhang.lyuan@gmail.com"
 
-git remote add upstream "https://$GITHUB_TOKEN@github.com/erizhang/systemdynamics.git"
+git remote add upstream "https://$GITHUB_TOKEN@github.com/SystemDynamicsCommunity/systemdynamics.git"
 git fetch upstream
 git reset upstream/gh-pages
 
